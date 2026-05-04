@@ -6,6 +6,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
 
+https://github.com/UdithNipuna/IT23253308.git
 
 ---
 
@@ -14,7 +15,7 @@ Automated Testing for Singlish to Sinhala Transliteration System
 IT3040_Assignment_1/
 
 - test_automation.py           → Playwright automation script  
-- IT - Test cases.xlsx → Excel file with test cases & results  
+- IT23253308 - Test cases.xlsx → Excel file with test cases & results  
 - requirements.txt             → Python dependencies  
 - README.md                    → Project documentation  
 - venv/ (optional)             → Virtual environment (not required)
